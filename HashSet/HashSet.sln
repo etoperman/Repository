@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HashSet", "HashSet\HashSet.csproj", "{0C684A76-6723-4524-B839-7D7A29B8C56F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HashSet1", "HashSet1\HashSet1.csproj", "{16C6A35D-9D37-401D-B40E-D0619245A3A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HashSet2", "HashSet2\HashSet2.csproj", "{C1B596AC-EF39-457F-85C1-CAA4DF34FC36}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C684A76-6723-4524-B839-7D7A29B8C56F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C684A76-6723-4524-B839-7D7A29B8C56F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C684A76-6723-4524-B839-7D7A29B8C56F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C684A76-6723-4524-B839-7D7A29B8C56F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16C6A35D-9D37-401D-B40E-D0619245A3A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16C6A35D-9D37-401D-B40E-D0619245A3A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16C6A35D-9D37-401D-B40E-D0619245A3A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16C6A35D-9D37-401D-B40E-D0619245A3A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1B596AC-EF39-457F-85C1-CAA4DF34FC36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1B596AC-EF39-457F-85C1-CAA4DF34FC36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1B596AC-EF39-457F-85C1-CAA4DF34FC36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1B596AC-EF39-457F-85C1-CAA4DF34FC36}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
